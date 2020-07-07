@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://admin-deeps:Test123@cluster0-2gge2.mongodb.net/devcDB?retryWrites=true&w=majority"
+}
