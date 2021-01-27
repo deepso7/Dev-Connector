@@ -117,3 +117,5 @@ dist
 .pnp.*
 
 config/default.json
+
+client/build
